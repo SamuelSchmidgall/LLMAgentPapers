@@ -887,7 +887,11 @@ Must-read Papers on Large Language Model Agents.
 
     *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)],2024.05
 
-12. **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents**
+12. **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**
+
+    *Samuel Schmidgall, Rojin Ziaei, Carl Harris, Eduardo Reis, Jeffrey Jopling, Michael Moor.* [[abs](https://arxiv.org/pdf/2405.07960)], 2024.05
+    
+13. **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents**
 
     *Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong, Edward Li, Shashank Gupta, Ashish Sabharwal, Niranjan Balasubramanian.* [[abs](https://arxiv.org/abs/2407.18901)], 2024.07
 
